@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  LutWnd.cpp
+  NeptuneCSample.cpp
+  NeptuneCSampleDlg.cpp
+  PopupAutoFocusDlg.cpp
+  PopupBaseDialog.cpp
+  PopupCaptureDlg.cpp
+  PopupFeatureDlg.cpp
+  PopupFrameSaveDlg.cpp
+  PopupGrabDlg.cpp
+  PopupLUTDlg.cpp
+  PopupResolutionDlg.cpp
+  PopupSIOCtrlDlg.cpp
+  PopupStrobeDlg.cpp
+  PopupTriggerDlg.cpp
+  PopupUserSetDlg.cpp
+  코드를 생성하고 있습니다...
+  NeptuneCSample.vcxproj -> D:\GitProject\MFC_NeptuneCSample\Debug\Win32\NeptuneCSample.exe

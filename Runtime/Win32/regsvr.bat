@@ -1,0 +1,1 @@
+%SystemRoot%\system32\regsvr32.exe /s "%~dp0Neptune.dll"
